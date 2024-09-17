@@ -122,3 +122,8 @@ Delete a product:
 ```
 curl -X DELETE http://localhost:8000/products/1
 ```
+
+test main_test.go
+```
+go test -v
+```
